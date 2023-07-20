@@ -2,16 +2,23 @@
 h1{
     color: #d90416;
     margin: 50;
+    padding: 10px;
 }
 h2{
     color: #D90404;
+    margin: auto;
+    padding: 10px;
 }
 p{
     color: #F26671;
+    margin: auto;
+    padding: 10px;
 }
 main{
     margin: auto;
+    padding: 10px;
 }
 img.lado{
     float: right;
+    padding: 10px;
 }
