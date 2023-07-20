@@ -12,3 +12,6 @@ p{
 main{
     margin: auto;
 }
+img.lado{
+    float: right;
+}
